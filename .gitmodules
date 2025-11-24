@@ -1,0 +1,6 @@
+[submodule "Modules/ModuleA"]
+	path = Modules/ModuleA
+	url = https://github.com/D400itri/ModuleA-repo.git
+[submodule "Modules/ModuleB"]
+	path = Modules/ModuleB
+	url = https://github.com/D400itri/ModuleB-repo.git
